@@ -1,0 +1,35 @@
+_repo: The-Pleasures-of-the-Table-An-Account-of-Gastronomy-from-Ancient-Days-to-Present-Times-With-a__62354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellwanger, George H. (George Herman)
+    alias: Ellwanger, George Herman
+    birthdate: 1848
+    deathdate: 1906
+    gutenberg_agent_id: '47730'
+    url: http://www.gutenberg.org/2009/agents/47730
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62354'
+  lccn: 02026094
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Gastronomy'
+- GITenberg
+tableOfContents: Introductory -- Cookery among the ancients -- With Lucullus and Apicius
+  -- The Renaissance of cookery -- Old English dishes -- L'Almanach des Gourmands
+  -- A German Speisekarte -- The school of Savarin -- From Carême to Dumas -- The
+  cook's confrère -- American vs. English cookery -- At table with the clergy -- Sundry
+  guides to good cheer -- Of sauces -- The spoils of the cover -- Two esculents par
+  excellence -- Sallets and salads -- Sweets to the sweet -- Bibliography.
+title: "The Pleasures of the Table\r\nAn Account of Gastronomy from Ancient Days to\
+  \ Present Times. With a History of Its Literature, Schools, and Most Distinguished\
+  \ Artists; Together With Some Special Recipes, and Views Concerning the Aesthetics\
+  \ of Dinners and Dinner-giving"
+url: http://www.gutenberg.org/ebooks/62354
